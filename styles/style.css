@@ -1506,8 +1506,8 @@ h1 {
 	}
 }
 
-@media screen and (max-width: 468px) {
+@media (max-width: 468px) {
     .title h1{
-        font-size: 45px;
+        font-size: 35px !important;
     }
 }
